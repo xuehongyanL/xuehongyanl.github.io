@@ -1,3 +1,70 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "http://xuehongyanl.github.io"
+title = "Xue Hongyan"
+theme = "coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+	author = "Xue Hongyan"
+	info = "PhD student & Developer"
+	description = "Xue Hongyan's personal website"
+	keywords = "blog,developer,personal"
+	avatarurl = "images/avatar.jpg"
+	#gravatar = "1141563180@qq.com"
+	
+	favicon_32 = "/img/favicon-32x32.png"
+	favicon_16 = "/img/favicon-16x16.png"
+	
+	footercontent = ""
+	hideFooter = false
+	hideCredits = false
+	hideCopyright = false
+	since = 2021
+	
+	enableTwemoji = true
+	
+	colorScheme = "auto"
+	hidecolorschemetoggle = false
+	
+	#customCSS = ["css/custom.css"]
+	#customSCSS = ["scss/custom.scss"]
+	#customJS = ["js/custom.js"]
+	
+[taxonomies]
+	category = "categories"
+	series = "series"
+	tag = "tags"
+	author = "authors"
+	
+# Social links
+[[params.social]]
+	name = "Github"
+	icon = "fa fa-github fa-2x"
+	weight = 1
+	url = "https://github.com/xuehongyanL/"
+	
+# Menu links
+[[menu.main]]
+	name = "About"
+	weight = 1
+	url = "about/"
+[[menu.main]]
+	name = "CV"
+	weight = 2
+	url  = "cv/"
+[[menu.main]]
+	name = "Publications"
+	weight = 3
+	url  = "posts/"
+[[menu.main]]
+	name = "Software"
+	weight = 3
+	url  = "posts/"
