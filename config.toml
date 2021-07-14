@@ -10,10 +10,11 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = ""
 
 [params]
-	author = "Xue Hongyan"
+	author = "Xue Hongyan / 薛泓彦"
+	authorShort = "Xue Hongyan"
 	info = "PhD student & Developer"
 	description = "Xue Hongyan's personal website"
 	keywords = "blog,developer,personal"
@@ -23,7 +24,7 @@ disqusShortname = "yourdiscussshortname"
 	favicon_32 = "/img/favicon-32x32.png"
 	favicon_16 = "/img/favicon-16x16.png"
 	
-	footercontent = ""
+	footercontent = "Let them hear the voice."
 	hideFooter = false
 	hideCredits = false
 	hideCopyright = false
@@ -63,8 +64,8 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
 	name = "Publications"
 	weight = 3
-	url  = "posts/"
+	url  = "publication/"
 [[menu.main]]
 	name = "Software"
 	weight = 3
-	url  = "posts/"
+	url  = "software/"
