@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xue Hongyan</title>
+    <link>http://xuehongyanl.github.io/</link>
+    <description>Recent content on Xue Hongyan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 14 Jul 2021 11:10:33 +0800</lastBuildDate><atom:link href="http://xuehongyanl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://xuehongyanl.github.io/about/</link>
+      <pubDate>Wed, 14 Jul 2021 11:14:27 +0800</pubDate>
+      
+      <guid>http://xuehongyanl.github.io/about/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>http://xuehongyanl.github.io/cv/</link>
+      <pubDate>Wed, 14 Jul 2021 11:14:27 +0800</pubDate>
+      
+      <guid>http://xuehongyanl.github.io/cv/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title>Hello world!</title>
+      <link>http://xuehongyanl.github.io/publication/helloworld/</link>
+      <pubDate>Wed, 14 Jul 2021 11:10:33 +0800</pubDate>
+      
+      <guid>http://xuehongyanl.github.io/publication/helloworld/</guid>
+      <description>Hello world!    TODO</description>
+    </item>
+    
+    <item>
+      <title>Hello world!</title>
+      <link>http://xuehongyanl.github.io/software/helloworld/</link>
+      <pubDate>Wed, 14 Jul 2021 11:10:33 +0800</pubDate>
+      
+      <guid>http://xuehongyanl.github.io/software/helloworld/</guid>
+      <description>Hello world!    TODO</description>
+    </item>
+    
+  </channel>
+</rss>
