@@ -60,7 +60,7 @@ disqusShortname = ""
 [[menu.main]]
 	name = "CV"
 	weight = 2
-	url  = "cv/"
+	url  = "CV.pdf"
 [[menu.main]]
 	name = "Publications"
 	weight = 3
