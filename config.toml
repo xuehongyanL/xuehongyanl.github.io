@@ -12,6 +12,8 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = ""
 
+publishDir = "docs"
+
 [params]
 	author = "Xue Hongyan / 薛泓彦"
 	authorShort = "Xue Hongyan"
