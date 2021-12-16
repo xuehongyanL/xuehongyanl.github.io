@@ -40,7 +40,11 @@ publishDir = "docs"
 	#customCSS = ["css/custom.css"]
 	#customSCSS = ["scss/custom.scss"]
 	#customJS = ["js/custom.js"]
-	
+
+[params.base]
+	school = "ICT, CAS"
+	city = "Beijing, China"
+
 [taxonomies]
 	category = "categories"
 	series = "series"
@@ -53,6 +57,11 @@ publishDir = "docs"
 	icon = "fa fa-github fa-2x"
 	weight = 1
 	url = "https://github.com/xuehongyanL/"
+[[params.social]]
+	name = "Mail"
+	icon = "fa fa-envelope fa-2x"
+	weight = 1
+	url = "mailto:xuehongyan17@mails.ucas.ac.cn"
 	
 # Menu links
 [[menu.main]]
@@ -71,3 +80,6 @@ publishDir = "docs"
 	name = "Software"
 	weight = 3
 	url  = "software/"
+
+[markup.goldmark.renderer]
+	unsafe = true
