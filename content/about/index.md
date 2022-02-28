@@ -13,6 +13,8 @@ I received B.S. of computer science from [University of Chinese Academy of Scien
 
 ## Contact me
 
+xuehongyan21b AT ict.ac.cn
+
 xuehongyan17 AT mails.ucas.ac.cn
 
 ## Research interests
