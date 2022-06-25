@@ -9,7 +9,7 @@ draft: false
 
 I am a first year PhD student, under the supervision of Prof. Qing He in the [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](http://www.ict.ac.cn/), Chinese Academy of Sciences (ICT, CAS). 
 
-I received B.S. of computer science from [University of Chinese Academy of Sciences](http://www.ucas.ac.cn) (UCAS) in 2021.
+I received B.E. of computer science from [University of Chinese Academy of Sciences](http://www.ucas.ac.cn) (UCAS) in 2021.
 
 ## Contact me
 
