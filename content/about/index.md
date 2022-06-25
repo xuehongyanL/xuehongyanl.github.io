@@ -19,4 +19,4 @@ xuehongyan17 AT mails.ucas.ac.cn
 
 ## Research interests
 
-I am interested in learning behavior from human demonstrations and I am working on Reinforcement Learning (RL) and Inverse Reinforcement Learning (IRL).
+I am interested in learning behavior from human demonstrations (LfD) and I am working on Reinforcement Learning (RL) and Inverse Reinforcement Learning (IRL).
