@@ -13,10 +13,15 @@ I received B.E. of computer science from [University of Chinese Academy of Scien
 
 ## Contact me
 
-xuehongyan21b AT ict.ac.cn
+xuehongyan21b AT ict.ac.cn (preferred)
 
 xuehongyan17 AT mails.ucas.ac.cn
 
 ## Research interests
 
-I am interested in learning behavior from human demonstrations (LfD) and I am working on Reinforcement Learning (RL) and Inverse Reinforcement Learning (IRL).
+I am working on some subfields of *Reinforcement Learning* (RL) : 
+
+- *Explainable Reinforcement Learning* (XRL)
+- Explainable applications of RL in other fields. For example, finding formulaic alpha factors for *Quantitative Trading*.
+
+Besides, I am interested in *learning behavior from human demonstrations* (LfD) problem.
