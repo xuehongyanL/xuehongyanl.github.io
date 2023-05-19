@@ -1,5 +1,5 @@
-baseurl = "http://xuehongyanl.github.io"
-title = "Xue Hongyan"
+baseurl = "https://xuehongyanl.github.io"
+title = "Hongyan Xue"
 theme = "coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -15,10 +15,10 @@ disqusShortname = ""
 publishDir = "docs"
 
 [params]
-	author = "Xue Hongyan / 薛泓彦"
-	authorShort = "Xue Hongyan"
+	author = "Hongyan Xue / 薛泓彦"
+	authorShort = "Hongyan Xue"
 	info = "PhD student & Developer"
-	description = "Xue Hongyan's personal website"
+	description = "Hongyan Xue's personal website"
 	keywords = "blog,developer,personal"
 	avatarurl = "images/avatar.jpg"
 	#gravatar = "1141563180@qq.com"
@@ -42,7 +42,7 @@ publishDir = "docs"
 	#customJS = ["js/custom.js"]
 
 [params.base]
-	school = "ICT, CAS"
+	school = "IIP, ICT, CAS"
 	city = "Beijing, China"
 
 [taxonomies]

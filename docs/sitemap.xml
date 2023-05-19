@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://xuehongyanl.github.io/about/</loc>
+    <loc>https://xuehongyanl.github.io/about/</loc>
     <lastmod>2021-07-14T11:14:27+08:00</lastmod>
   </url><url>
-    <loc>http://xuehongyanl.github.io/publication/helloworld/</loc>
+    <loc>https://xuehongyanl.github.io/publication/helloworld/</loc>
     <lastmod>2021-07-14T11:10:33+08:00</lastmod>
   </url><url>
-    <loc>http://xuehongyanl.github.io/software/helloworld/</loc>
+    <loc>https://xuehongyanl.github.io/software/helloworld/</loc>
     <lastmod>2021-07-14T11:10:33+08:00</lastmod>
   </url><url>
-    <loc>http://xuehongyanl.github.io/publication/</loc>
+    <loc>https://xuehongyanl.github.io/</loc>
     <lastmod>2021-07-14T11:10:33+08:00</lastmod>
   </url><url>
-    <loc>http://xuehongyanl.github.io/software/</loc>
+    <loc>https://xuehongyanl.github.io/publication/</loc>
     <lastmod>2021-07-14T11:10:33+08:00</lastmod>
   </url><url>
-    <loc>http://xuehongyanl.github.io/</loc>
+    <loc>https://xuehongyanl.github.io/software/</loc>
     <lastmod>2021-07-14T11:10:33+08:00</lastmod>
   </url><url>
-    <loc>http://xuehongyanl.github.io/authors/</loc>
+    <loc>https://xuehongyanl.github.io/authors/</loc>
   </url><url>
-    <loc>http://xuehongyanl.github.io/categories/</loc>
+    <loc>https://xuehongyanl.github.io/categories/</loc>
   </url><url>
-    <loc>http://xuehongyanl.github.io/series/</loc>
+    <loc>https://xuehongyanl.github.io/series/</loc>
   </url><url>
-    <loc>http://xuehongyanl.github.io/tags/</loc>
+    <loc>https://xuehongyanl.github.io/tags/</loc>
   </url>
 </urlset>
