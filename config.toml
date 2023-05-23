@@ -22,27 +22,30 @@ publishDir = "docs"
 	keywords = "blog,developer,personal"
 	avatarurl = "images/avatar.jpg"
 	#gravatar = "1141563180@qq.com"
-	
+
 	favicon_32 = "/img/favicon-32x32.png"
 	favicon_16 = "/img/favicon-16x16.png"
-	
+
 	footercontent = "Let them hear the voice."
 	hideFooter = false
 	hideCredits = false
 	hideCopyright = false
 	since = 2021
-	
+
 	enableTwemoji = true
-	
+
 	colorScheme = "auto"
 	hidecolorschemetoggle = false
-	
+
+	notByAI = true
+
 	#customCSS = ["css/custom.css"]
 	#customSCSS = ["scss/custom.scss"]
 	#customJS = ["js/custom.js"]
 
 [params.base]
 	school = "IIP, ICT, CAS"
+	schoolurl = "https://iip.ict.ac.cn/"
 	city = "Beijing, China"
 
 [taxonomies]
@@ -50,7 +53,7 @@ publishDir = "docs"
 	series = "series"
 	tag = "tags"
 	author = "authors"
-	
+
 # Social links
 [[params.social]]
 	name = "Github"
@@ -62,7 +65,7 @@ publishDir = "docs"
 	icon = "fa fa-envelope fa-2x"
 	weight = 1
 	url = "mailto:xuehongyan21b@ict.ac.cn"
-	
+
 # Menu links
 [[menu.main]]
 	name = "About"
