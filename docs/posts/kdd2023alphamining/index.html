@@ -3,7 +3,7 @@
 
 <head>
   <title>
-  About me · Hongyan Xue
+  [KDD 2023] Generating Synergistic Formulaic Alpha Collections via Reinforcement Learning · Hongyan Xue
 </title>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,28 +13,34 @@
 
 
 <meta name="author" content="Hongyan Xue / 薛泓彦">
-<meta name="description" content="I am a second year PhD student, under the supervision of Prof. Qing He in the Machine Learning and Data Mining group, Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (MLDM, IIP, ICT, CAS).
-Education  Link to heading    Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), 2021-now  Direct doctoral student   University of Chinese Academy of Sciences (UCAS), 2017-2021  Received B.">
+<meta name="description" content="Shuo Yu*, Hongyan Xue*, Xiang Ao, Feiyang Pan, Jia He, Dandan Tu and Qing He
+Accepted by KDD 2023 Applied Data Science (ADS) track.
+[ArXiv] [GitHub] [知乎]
+Abstract  Link to heading   In the field of quantitative trading, it is common practice to transform raw historical stock data into indicative signals for the market trend. Such signals are called alpha factors. Alphas in formula forms are more interpretable and thus favored by practitioners concerned with risk.">
 <meta name="keywords" content="blog,developer,personal">
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="About me"/>
-<meta name="twitter:description" content="I am a second year PhD student, under the supervision of Prof. Qing He in the Machine Learning and Data Mining group, Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (MLDM, IIP, ICT, CAS).
-Education  Link to heading    Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), 2021-now  Direct doctoral student   University of Chinese Academy of Sciences (UCAS), 2017-2021  Received B."/>
+<meta name="twitter:title" content="[KDD 2023] Generating Synergistic Formulaic Alpha Collections via Reinforcement Learning"/>
+<meta name="twitter:description" content="Shuo Yu*, Hongyan Xue*, Xiang Ao, Feiyang Pan, Jia He, Dandan Tu and Qing He
+Accepted by KDD 2023 Applied Data Science (ADS) track.
+[ArXiv] [GitHub] [知乎]
+Abstract  Link to heading   In the field of quantitative trading, it is common practice to transform raw historical stock data into indicative signals for the market trend. Such signals are called alpha factors. Alphas in formula forms are more interpretable and thus favored by practitioners concerned with risk."/>
 
-<meta property="og:title" content="About me" />
-<meta property="og:description" content="I am a second year PhD student, under the supervision of Prof. Qing He in the Machine Learning and Data Mining group, Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (MLDM, IIP, ICT, CAS).
-Education  Link to heading    Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), 2021-now  Direct doctoral student   University of Chinese Academy of Sciences (UCAS), 2017-2021  Received B." />
+<meta property="og:title" content="[KDD 2023] Generating Synergistic Formulaic Alpha Collections via Reinforcement Learning" />
+<meta property="og:description" content="Shuo Yu*, Hongyan Xue*, Xiang Ao, Feiyang Pan, Jia He, Dandan Tu and Qing He
+Accepted by KDD 2023 Applied Data Science (ADS) track.
+[ArXiv] [GitHub] [知乎]
+Abstract  Link to heading   In the field of quantitative trading, it is common practice to transform raw historical stock data into indicative signals for the market trend. Such signals are called alpha factors. Alphas in formula forms are more interpretable and thus favored by practitioners concerned with risk." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://xuehongyanl.github.io/about/" /><meta property="article:section" content="" />
-<meta property="article:published_time" content="2021-07-14T11:14:27+08:00" />
-<meta property="article:modified_time" content="2021-07-14T11:14:27+08:00" />
+<meta property="og:url" content="https://xuehongyanl.github.io/posts/kdd2023alphamining/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-05-24T18:44:00+08:00" />
+<meta property="article:modified_time" content="2023-05-24T18:44:00+08:00" />
 
 
 
 
 
-<link rel="canonical" href="https://xuehongyanl.github.io/about/">
+<link rel="canonical" href="https://xuehongyanl.github.io/posts/kdd2023alphamining/">
 
 
 <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
@@ -130,134 +136,105 @@ Education  Link to heading    Institute of Computing Technology, Chinese Academy
 
     <div class="content">
       
-  <section class="container page">
-  <article>
-    <header>
-      <h2 class="title">
-        <a class="title-link" href="https://xuehongyanl.github.io/about/">
-          About me
-        </a>
-      </h2>
-    </header>
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="https://xuehongyanl.github.io/posts/kdd2023alphamining/">
+              [KDD 2023] Generating Synergistic Formulaic Alpha Collections via Reinforcement Learning
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa fa-calendar" aria-hidden="true"></i>
+              <time datetime="2023-05-24T18:44:00&#43;08:00">
+                May 24, 2023
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa fa-clock-o" aria-hidden="true"></i>
+              4-minute read
+            </span>
+          </div>
+          
+          <div class="categories">
+  <i class="fa fa-folder" aria-hidden="true"></i>
+    <a href="/categories/publications/">Publications</a></div>
 
-     <div align="center"><img src="https://raw.githubusercontent.com/xuehongyanL/images/main/xhy.jpg" style="width: 100%; max-width: 450px;" alt="薛泓彦" /></div>
-<p>I am a second year PhD student, under the supervision of Prof. Qing He in the Machine Learning and Data Mining group, Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (MLDM, IIP, ICT, CAS).</p>
-<h2 id="education">
-  Education
-  <a class="heading-link" href="#education">
-    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
-    <span class="sr-only">Link to heading</span>
-  </a>
-</h2>
-<ul>
-<li>Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), 2021-now
-<ul>
-<li>Direct doctoral student</li>
-</ul>
-</li>
-<li>University of Chinese Academy of Sciences (UCAS), 2017-2021
-<ul>
-<li>Received B.E. of computer science</li>
-</ul>
-</li>
-</ul>
-<h2 id="research-interests">
-  Research Interests
-  <a class="heading-link" href="#research-interests">
-    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
-    <span class="sr-only">Link to heading</span>
-  </a>
-</h2>
-<p>I am working on some subfields related to <em>Reinforcement Learning</em>:</p>
-<ul>
-<li>Application of RL in generating symbolic expressions:
-<ul>
-<li><em>Symbolic Regression</em></li>
-<li>Finding formulaic alpha factors for <em>Quantitative Trading</em>;</li>
-</ul>
-</li>
-<li><em>Interpretability</em> / <em>explainability</em> of RL</li>
-<li><em>Interactive Imitation Learning</em>.</li>
-</ul>
-<h2 id="contact-me">
-  Contact me
-  <a class="heading-link" href="#contact-me">
-    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
-    <span class="sr-only">Link to heading</span>
-  </a>
-</h2>
-<p><a href="mailto:xuehongyan21b@ict.ac.cn" >xuehongyan21b AT ict.ac.cn</a> (preferred)</p>
-<p>xuehongyan17 AT mails.ucas.ac.cn</p>
-<h2 id="publications">
-  Publications
-  <a class="heading-link" href="#publications">
-    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
-    <span class="sr-only">Link to heading</span>
-  </a>
-</h2>
-<ol>
-<li>
-<p><em>Generating Synergistic Formulaic Alpha Collections via Reinforcement Learning</em></p>
-<p>Shuo Yu*, <strong>Hongyan Xue</strong>*, Xiang Ao, Feiyang Pan, Jia He, Dandan Tu and Qing He</p>
-<p>Accepted by <em>KDD 2023</em> Applied Data Science (ADS) track. <a href="" >[ArXiv]</a> <a href="https://github.com/RL-MLDM/alphagen"  class="external-link" target="_blank" rel="noopener">[GitHub]</a> <a href="" >[知乎]</a> <a href="/posts/kdd2023alphamining" >[Blog]</a></p>
-</li>
-</ol>
-<h2 id="awards--honors">
-  Awards &amp; Honors
-  <a class="heading-link" href="#awards--honors">
-    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
-    <span class="sr-only">Link to heading</span>
-  </a>
-</h2>
-<ul>
-<li><em>Silver</em>, The 2020 <em>ICPC Asia</em> Yinchuan Regional Contest, 2021.05</li>
-<li><em>Silver</em>, The 2019 <em>ICPC Asia</em> Yinchuan Regional Contest, 2019.10</li>
-</ul>
-<h2 id="internship">
-  Internship
-  <a class="heading-link" href="#internship">
-    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
-    <span class="sr-only">Link to heading</span>
-  </a>
-</h2>
-<ul>
-<li>Research intern at Huawei EI Innovation Lab, 2022.07-now.
-<ul>
-<li>Advisor: Dr. <a href="https://feiyang.github.io/"  class="external-link" target="_blank" rel="noopener">Feiyang Pan</a></li>
-</ul>
-</li>
-</ul>
-<h2 id="skills">
-  Skills
-  <a class="heading-link" href="#skills">
-    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
-    <span class="sr-only">Link to heading</span>
-  </a>
-</h2>
-<ul>
-<li><em>Machine Learning</em>: Pytorch, Scikit-Learn, LightGBM</li>
-<li><em>Programming Languages</em>:
-<ul>
-<li>Natively fluent: Python, JavaScript / TypeScript</li>
-<li>Familiar but not proficient: C / C++, Java / Kotlin, SQL</li>
-<li>Tourist: MATLAB, Shell, Scala, Swift</li>
-</ul>
-</li>
-<li>Hobbies and Interests
-<ul>
-<li>Soccer (Fan of Borussia Dortmund)</li>
-<li>F1 Racing (A novice fan yet)</li>
-<li>City Orienteering / Urban Rail Adventure</li>
-<li>Cartography / GIS</li>
-<li>Craft Beer</li>
-</ul>
-</li>
-</ul>
+          <div class="tags">
+  <i class="fa fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/rl/">RL</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/quant/">Quant</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/symbolic/">Symbolic</a>
+    </span></div>
 
-  </article>
-</section>
+        </div>
+      </header>
 
-  
+      <div class="post-content">
+        
+        <p>Shuo Yu*, <strong>Hongyan Xue</strong>*, Xiang Ao, Feiyang Pan, Jia He, Dandan Tu and Qing He</p>
+<p>Accepted by <em>KDD 2023</em> Applied Data Science (ADS) track.</p>
+<p><a href="" >[ArXiv]</a> <a href="https://github.com/RL-MLDM/alphagen"  class="external-link" target="_blank" rel="noopener">[GitHub]</a> <a href="" >[知乎]</a></p>
+<h2 id="abstract">
+  Abstract
+  <a class="heading-link" href="#abstract">
+    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>In the field of quantitative trading, it is common practice to transform raw historical stock data into indicative signals for the market trend. Such signals are called alpha factors. Alphas in formula forms are more interpretable and thus favored by practitioners concerned with risk. In practice, a set of formulaic alphas is often used together for better modeling precision, so we need to find synergistic formulaic alpha sets that work well together. However, most traditional alpha generators mine alphas one by one separately, overlooking the fact that the alphas would be combined later. In this paper, we propose a new alpha-mining framework that prioritizes mining a synergistic set of alphas, i.e., it directly uses the performance of the downstream combination model to optimize the alpha generator. Our framework also leverages the strong exploratory capabilities of reinforcement learning (RL) to better explore the vast search space of formulaic alphas. The contribution to the combination models’ performance is assigned to be the return used in the RL process, driving the alpha generator to find better alphas that improve upon the current set. Experimental evaluations on real-world stock market data demonstrate both the effectiveness and the efficiency of our framework for stock trend forecasting. The investment simulation results show that our framework is able to achieve higher returns compared to previous approaches.</p>
+<p><img src="https://raw.githubusercontent.com/xuehongyanL/images/main/kdd2023alphamining/main.png" alt="Method"></p>
+<h2 id="our-method">
+  Our Method
+  <a class="heading-link" href="#our-method">
+    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Our alpha-mining framework consists of two main components: 1) the <em>Alpha Combination Model</em>, which combines multiple formulaic alphas to achieve optimal performance in prediction, and 2) the <em>RL-based Alpha Generator</em>, which generates formulaic alphas in the form of a token sequence. The increment of performance in the Alpha Combination Model is used as the reward signal to train the RL policy in the Alpha Generator. Repeating this process, the generator is continuously trained to generate alphas that boost the combination model, thereby enhancing the overall predictive power.</p>
+<p>The combination model consists of a set of alphas and their weights, and we consider the weighted linear combination of alphas as the overall pridictive signal. After the alpha generator outputs a new alpha, the alpha is first added to the candidate alpha set and assigned a random initial weight. Gradient descent is then performed to optimize the weights with respect to the extended alpha set. If the amount of alphas in the extended set exceeds a certain threshold, the least principal alpha is removed from the set together with its corresponding weight.</p>
+<p>The alpha generator models a distribution of mathematical expressions. As each expression can be represented as a symbolic expression tree, we use the reverse Polish notation (RPN) to represent it as a linear sequence, since traditional auto-regressive generators can only deal with sequences. To control and evaluate the generation process of valid expressions, we model the generation process as a non-stationary Markov Decision Process (MDP): Each state corresponds to a sequence of tokens denoting the currently generated part of the expression, and an action is a token that follows the current state. The increment of performance in the Alpha Combination Model, and the dynamic is simply the sequence concatation. We choose PPO as the RL learner.</p>
+<p>Our MDP has complicated rules for the legality of actions, including <em>formal</em> legality and <em>semantic</em> legality. We adopt the Invalid Action Masking mechanism to mask out invalid actions, ensuring formal legality; Invalid expressions receive the lowest rewards during run time, ensuring semantic legality.</p>
+<h2 id="experimental-results">
+  Experimental results
+  <a class="heading-link" href="#experimental-results">
+    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Our experiments are conducted on raw data from the Chinese A-shares market.</p>
+<p>Compared with single-alpha oriented methods and some non-formulaic baselines, our framework is able to achieve the highest IC and rank IC, significantly outperformming baseline methods, and is also competitive against some commonly-used non-formulaic methods. Another case study also demonstrated that the combination IC is a better target than existing ones, including single-alpha IC and mutual IC between alphas.</p>
+<p><img src="https://raw.githubusercontent.com/xuehongyanL/images/main/kdd2023alphamining/table2.png" alt="Result"></p>
+<p>The investment simulation results show that our framework is able to achieve higher returns compared to previous approaches.</p>
+<p><img src="https://raw.githubusercontent.com/xuehongyanL/images/main/kdd2023alphamining/backtest.png" alt="Backtest"></p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
 
     </div>
 

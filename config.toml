@@ -71,9 +71,13 @@ publishDir = "docs"
 	weight = 3
 	url = "about/"
 [[params.social]]
-	name = "Blog"
+	name = "Paper"
 	weight = 4
-	url = "blog/"
+	url = "categories/publications"
+[[params.social]]
+	name = "Blog"
+	weight = 5
+	url = "posts/"
 
 # Menu links
 [[menu.main]]
@@ -87,7 +91,7 @@ publishDir = "docs"
 [[menu.main]]
 	name = "Blog"
 	weight = 3
-	url  = "blog/"
+	url  = "posts/"
 
 [markup.goldmark.renderer]
 	unsafe = true

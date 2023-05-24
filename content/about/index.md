@@ -4,24 +4,62 @@ date: 2021-07-14T11:14:27+08:00
 draft: false
 ---
 
- <div align="center"><img src="https://raw.githubusercontent.com/xuehongyanL/images/main/xhy.jpg" width = "450" height = "300" alt="薛泓彦" /></div>
+ <div align="center"><img src="https://raw.githubusercontent.com/xuehongyanL/images/main/xhy.jpg" style="width: 100%; max-width: 450px;" alt="薛泓彦" /></div>
 
 
-I am a second year PhD student, under the supervision of Prof. Qing He in the [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](http://www.ict.ac.cn/), Chinese Academy of Sciences (ICT, CAS). 
+I am a second year PhD student, under the supervision of Prof. Qing He in the Machine Learning and Data Mining group, Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (MLDM, IIP, ICT, CAS).
 
-I received B.E. of computer science from [University of Chinese Academy of Sciences](http://www.ucas.ac.cn) (UCAS) in 2021.
+## Education
+
+- Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), 2021-now
+    - Direct doctoral student
+- University of Chinese Academy of Sciences (UCAS), 2017-2021
+    - Received B.E. of computer science
+
+## Research Interests
+
+I am working on some subfields related to *Reinforcement Learning*:
+
+- Application of RL in generating symbolic expressions:
+    - *Symbolic Regression*
+    - Finding formulaic alpha factors for *Quantitative Trading*;
+- *Interpretability* / *explainability* of RL
+- *Interactive Imitation Learning*.
 
 ## Contact me
 
-xuehongyan21b AT ict.ac.cn (preferred)
+[xuehongyan21b AT ict.ac.cn](mailto:xuehongyan21b@ict.ac.cn) (preferred)
 
 xuehongyan17 AT mails.ucas.ac.cn
 
-## Research interests
+## Publications
 
-I am working on some subfields of *Reinforcement Learning* (RL) : 
+1. *Generating Synergistic Formulaic Alpha Collections via Reinforcement Learning*
 
-- *Explainable Reinforcement Learning* (XRL)
-- Explainable applications of RL in other fields. For example, finding formulaic alpha factors for *Quantitative Trading*.
+    Shuo Yu\*, **Hongyan Xue**\*, Xiang Ao, Feiyang Pan, Jia He, Dandan Tu and Qing He
 
-Besides, I am interested in *learning behavior from human demonstrations* (LfD) problem.
+    Accepted by *KDD 2023* Applied Data Science (ADS) track. [[ArXiv]]() [[GitHub]](https://github.com/RL-MLDM/alphagen) [[知乎]]() [[Blog]](/posts/kdd2023alphamining)
+
+## Awards & Honors
+
+- *Silver*, The 2020 *ICPC Asia* Yinchuan Regional Contest, 2021.05
+- *Silver*, The 2019 *ICPC Asia* Yinchuan Regional Contest, 2019.10
+
+## Internship
+
+- Research intern at Huawei EI Innovation Lab, 2022.07-now.
+    - Advisor: Dr. [Feiyang Pan](https://feiyang.github.io/)
+
+## Skills
+
+- *Machine Learning*: Pytorch, Scikit-Learn, LightGBM
+- *Programming Languages*:
+    - Natively fluent: Python, JavaScript / TypeScript
+    - Familiar but not proficient: C / C++, Java / Kotlin, SQL
+    - Tourist: MATLAB, Shell, Scala, Swift
+- Hobbies and Interests
+    - Soccer (Fan of Borussia Dortmund)
+    - F1 Racing (A novice fan yet)
+    - City Orienteering / Urban Rail Adventure
+    - Cartography / GIS
+    - Craft Beer

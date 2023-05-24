@@ -2,24 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://xuehongyanl.github.io/posts/kdd2023alphamining/</loc>
+    <lastmod>2023-05-24T18:44:00+08:00</lastmod>
+  </url><url>
+    <loc>https://xuehongyanl.github.io/categories/</loc>
+    <lastmod>2023-05-24T18:44:00+08:00</lastmod>
+  </url><url>
+    <loc>https://xuehongyanl.github.io/</loc>
+    <lastmod>2023-05-24T18:44:00+08:00</lastmod>
+  </url><url>
+    <loc>https://xuehongyanl.github.io/posts/</loc>
+    <lastmod>2023-05-24T18:44:00+08:00</lastmod>
+  </url><url>
+    <loc>https://xuehongyanl.github.io/categories/publications/</loc>
+    <lastmod>2023-05-24T18:44:00+08:00</lastmod>
+  </url><url>
+    <loc>https://xuehongyanl.github.io/tags/quant/</loc>
+    <lastmod>2023-05-24T18:44:00+08:00</lastmod>
+  </url><url>
+    <loc>https://xuehongyanl.github.io/tags/rl/</loc>
+    <lastmod>2023-05-24T18:44:00+08:00</lastmod>
+  </url><url>
+    <loc>https://xuehongyanl.github.io/tags/symbolic/</loc>
+    <lastmod>2023-05-24T18:44:00+08:00</lastmod>
+  </url><url>
+    <loc>https://xuehongyanl.github.io/tags/</loc>
+    <lastmod>2023-05-24T18:44:00+08:00</lastmod>
+  </url><url>
     <loc>https://xuehongyanl.github.io/about/</loc>
     <lastmod>2021-07-14T11:14:27+08:00</lastmod>
   </url><url>
-    <loc>https://xuehongyanl.github.io/blog/</loc>
-    <lastmod>2021-07-14T11:10:33+08:00</lastmod>
-  </url><url>
-    <loc>https://xuehongyanl.github.io/blog/helloworld/</loc>
-    <lastmod>2021-07-14T11:10:33+08:00</lastmod>
-  </url><url>
-    <loc>https://xuehongyanl.github.io/</loc>
+    <loc>https://xuehongyanl.github.io/posts/helloworld/</loc>
     <lastmod>2021-07-14T11:10:33+08:00</lastmod>
   </url><url>
     <loc>https://xuehongyanl.github.io/authors/</loc>
   </url><url>
-    <loc>https://xuehongyanl.github.io/categories/</loc>
-  </url><url>
     <loc>https://xuehongyanl.github.io/series/</loc>
-  </url><url>
-    <loc>https://xuehongyanl.github.io/tags/</loc>
   </url>
 </urlset>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quant on Hongyan Xue</title>
+    <link>https://xuehongyanl.github.io/tags/quant/</link>
+    <description>Recent content in Quant on Hongyan Xue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 May 2023 18:44:00 +0800</lastBuildDate><atom:link href="https://xuehongyanl.github.io/tags/quant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[KDD 2023] Generating Synergistic Formulaic Alpha Collections via Reinforcement Learning</title>
+      <link>https://xuehongyanl.github.io/posts/kdd2023alphamining/</link>
+      <pubDate>Wed, 24 May 2023 18:44:00 +0800</pubDate>
+      
+      <guid>https://xuehongyanl.github.io/posts/kdd2023alphamining/</guid>
+      <description>Shuo Yu*, Hongyan Xue*, Xiang Ao, Feiyang Pan, Jia He, Dandan Tu and Qing He
+Accepted by KDD 2023 Applied Data Science (ADS) track.
+[ArXiv] [GitHub] [知乎]
+Abstract  Link to heading   In the field of quantitative trading, it is common practice to transform raw historical stock data into indicative signals for the market trend. Such signals are called alpha factors. Alphas in formula forms are more interpretable and thus favored by practitioners concerned with risk.</description>
+    </item>
+    
+  </channel>
+</rss>

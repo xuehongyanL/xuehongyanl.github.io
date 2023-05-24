@@ -5,6 +5,34 @@
     <link>https://xuehongyanl.github.io/tags/</link>
     <description>Recent content in Tags on Hongyan Xue</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://xuehongyanl.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 24 May 2023 18:44:00 +0800</lastBuildDate><atom:link href="https://xuehongyanl.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quant</title>
+      <link>https://xuehongyanl.github.io/tags/quant/</link>
+      <pubDate>Wed, 24 May 2023 18:44:00 +0800</pubDate>
+      
+      <guid>https://xuehongyanl.github.io/tags/quant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RL</title>
+      <link>https://xuehongyanl.github.io/tags/rl/</link>
+      <pubDate>Wed, 24 May 2023 18:44:00 +0800</pubDate>
+      
+      <guid>https://xuehongyanl.github.io/tags/rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbolic</title>
+      <link>https://xuehongyanl.github.io/tags/symbolic/</link>
+      <pubDate>Wed, 24 May 2023 18:44:00 +0800</pubDate>
+      
+      <guid>https://xuehongyanl.github.io/tags/symbolic/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
