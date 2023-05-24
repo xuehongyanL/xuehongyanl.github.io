@@ -15,27 +15,18 @@
       <guid>https://xuehongyanl.github.io/about/</guid>
       <description>I am a second year PhD student, under the supervision of Prof. Qing He in the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS).
 I received B.E. of computer science from University of Chinese Academy of Sciences (UCAS) in 2021.
-Contact me    xuehongyan21b AT ict.ac.cn (preferred)
+Contact me  Link to heading   xuehongyan21b AT ict.ac.cn (preferred)
 xuehongyan17 AT mails.ucas.ac.cn
-Research interests    I am working on some subfields of Reinforcement Learning (RL) :</description>
+Research interests  Link to heading   I am working on some subfields of Reinforcement Learning (RL) :</description>
     </item>
     
     <item>
       <title>Hello world!</title>
-      <link>https://xuehongyanl.github.io/publication/helloworld/</link>
+      <link>https://xuehongyanl.github.io/blog/helloworld/</link>
       <pubDate>Wed, 14 Jul 2021 11:10:33 +0800</pubDate>
       
-      <guid>https://xuehongyanl.github.io/publication/helloworld/</guid>
-      <description>Hello world!    TODO</description>
-    </item>
-    
-    <item>
-      <title>Hello world!</title>
-      <link>https://xuehongyanl.github.io/software/helloworld/</link>
-      <pubDate>Wed, 14 Jul 2021 11:10:33 +0800</pubDate>
-      
-      <guid>https://xuehongyanl.github.io/software/helloworld/</guid>
-      <description>Hello world!    TODO</description>
+      <guid>https://xuehongyanl.github.io/blog/helloworld/</guid>
+      <description>Hello world!  Link to heading   TODO</description>
     </item>
     
   </channel>

@@ -27,6 +27,7 @@ publishDir = "docs"
 	favicon_16 = "/img/favicon-16x16.png"
 
 	footercontent = "Let them hear the voice."
+	hideHeader = false
 	hideFooter = false
 	hideCredits = false
 	hideCopyright = false
@@ -35,7 +36,7 @@ publishDir = "docs"
 	enableTwemoji = true
 
 	colorScheme = "auto"
-	hidecolorschemetoggle = false
+	hidecolorschemetoggle = true
 
 	notByAI = true
 
@@ -56,15 +57,23 @@ publishDir = "docs"
 
 # Social links
 [[params.social]]
-	name = "Github"
+	name = "GitHub"
 	icon = "fa fa-github fa-2x"
 	weight = 1
 	url = "https://github.com/xuehongyanL/"
 [[params.social]]
 	name = "Mail"
 	icon = "fa fa-envelope fa-2x"
-	weight = 1
+	weight = 2
 	url = "mailto:xuehongyan21b@ict.ac.cn"
+[[params.social]]
+	name = "CV"
+	weight = 3
+	url = "about/"
+[[params.social]]
+	name = "Blog"
+	weight = 4
+	url = "blog/"
 
 # Menu links
 [[menu.main]]
@@ -72,17 +81,13 @@ publishDir = "docs"
 	weight = 1
 	url = "about/"
 [[menu.main]]
-	name = "CV"
+	name = "Resume"
 	weight = 2
-	url  = "CV.pdf"
+	url  = "resume.pdf"
 [[menu.main]]
-	name = "Publications"
+	name = "Blog"
 	weight = 3
-	url  = "publication/"
-[[menu.main]]
-	name = "Software"
-	weight = 3
-	url  = "software/"
+	url  = "blog/"
 
 [markup.goldmark.renderer]
 	unsafe = true
