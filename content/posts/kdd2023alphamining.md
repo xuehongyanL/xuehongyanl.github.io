@@ -15,7 +15,7 @@ Shuo Yu\*, **Hongyan Xue**\*, Xiang Ao, Feiyang Pan, Jia He, Dandan Tu and Qing 
 
 Accepted by *KDD 2023* Applied Data Science (ADS) track.
 
-[[ArXiv]]() [[GitHub]](https://github.com/RL-MLDM/alphagen) [[知乎]]()
+[[ArXiv]]() [[GitHub]](https://github.com/RL-MLDM/alphagen) [[知乎]](https://zhuanlan.zhihu.com/p/633150112)
 
 ## Abstract
 
