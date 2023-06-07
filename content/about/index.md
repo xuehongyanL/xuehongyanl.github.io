@@ -28,9 +28,9 @@ I am working on some subfields related to *Reinforcement Learning*:
 
 ## Contact me
 
-[xuehongyan21b AT ict.ac.cn](mailto:xuehongyan21b@ict.ac.cn) (preferred)
+[xuehongyan21b \[AT\] ict.ac.cn](mailto:xuehongyan21b@ict.ac.cn) (preferred)
 
-xuehongyan17 AT mails.ucas.ac.cn
+xuehongyan17 \[AT\] mails.ucas.ac.cn
 
 ## Publications
 
@@ -53,7 +53,7 @@ xuehongyan17 AT mails.ucas.ac.cn
 ## Skills
 
 - *Machine Learning*: Pytorch, Scikit-Learn, LightGBM
-- *Programming Languages*:
+- *Programming Languages*: ![](https://leetcode-badge.haozibi.dev/v1cn/solved/xuehongyan.svg?color=ff5983&logo=leetcode)
     - Natively fluent: Python, JavaScript / TypeScript
     - Familiar but not proficient: C / C++, Java / Kotlin, SQL
     - Tourist: MATLAB, Shell, Scala, Swift
