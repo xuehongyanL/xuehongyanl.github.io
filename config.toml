@@ -58,12 +58,12 @@ publishDir = "docs"
 # Social links
 [[params.social]]
 	name = "GitHub"
-	icon = "fa fa-github fa-2x"
+	# icon = "fa fa-github fa-2x"
 	weight = 1
 	url = "https://github.com/xuehongyanL/"
 [[params.social]]
 	name = "Mail"
-	icon = "fa fa-envelope fa-2x"
+	# icon = "fa fa-envelope fa-2x"
 	weight = 2
 	url = "mailto:xuehongyan21b@ict.ac.cn"
 [[params.social]]
