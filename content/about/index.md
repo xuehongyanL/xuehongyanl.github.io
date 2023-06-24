@@ -38,7 +38,7 @@ xuehongyan17 \[AT\] mails.ucas.ac.cn
 
     Shuo Yu\*, **Hongyan Xue**\*, Xiang Ao, Feiyang Pan, Jia He, Dandan Tu and Qing He
 
-    Accepted by *KDD 2023* Applied Data Science (ADS) track. [[ArXiv]]() [[GitHub]](https://github.com/RL-MLDM/alphagen) [[知乎]](https://zhuanlan.zhihu.com/p/633150112) [[Blog]](/posts/kdd2023alphamining)
+    Accepted by *KDD 2023* Applied Data Science (ADS) track. [[ArXiv]](https://arxiv.org/abs/2306.12964) [[GitHub]](https://github.com/RL-MLDM/alphagen) [[知乎]](https://zhuanlan.zhihu.com/p/633150112) [[Blog]](/posts/kdd2023alphamining)
 
 ## Awards & Honors
 
