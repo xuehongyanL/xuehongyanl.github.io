@@ -57,16 +57,6 @@ publishDir = "docs"
 
 # Social links
 [[params.social]]
-	name = "GitHub"
-	# icon = "fa fa-github fa-2x"
-	weight = 4
-	url = "https://github.com/xuehongyanL/"
-[[params.social]]
-	name = "Mail"
-	# icon = "fa fa-envelope fa-2x"
-	weight = 5
-	url = "mailto:xuehongyan21b@ict.ac.cn"
-[[params.social]]
 	name = "CV"
 	weight = 1
 	url = "about/"
@@ -78,6 +68,24 @@ publishDir = "docs"
 	name = "Blog"
 	weight = 3
 	url = "posts/"
+[[params.social]]
+	name = "Mail"
+	# icon = "fa fa-envelope fa-2x"
+	weight = 4
+	url = "mailto:xuehongyan21b@ict.ac.cn"
+[[params.scholar]]
+	name = "GitHub"
+	# icon = "fa fa-github fa-2x"
+	weight = 1
+	url = "https://github.com/xuehongyanL/"
+[[params.scholar]]
+	name = "Google"
+	weight = 2
+	url = "https://scholar.google.com/citations?user=V_sn6OQAAAAJ"
+[[params.scholar]]
+	name = "Semantic"
+	weight = 3
+	url = "https://www.semanticscholar.org/author/Hongyan-Xue/2220403956"
 
 # Menu links
 [[menu.main]]
