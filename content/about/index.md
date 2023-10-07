@@ -7,7 +7,7 @@ draft: false
  <div align="center"><img src="https://raw.githubusercontent.com/xuehongyanL/images/main/xhy.jpg" style="width: 100%; max-width: 450px;" alt="薛泓彦" /></div>
 
 
-I am a second year PhD student, under the supervision of Prof. Qing He in the Machine Learning and Data Mining group, Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (MLDM, IIP, ICT, CAS).
+I am a third year PhD student, under the supervision of Prof. Qing He in the Machine Learning and Data Mining group, Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (MLDM, IIP, ICT, CAS).
 
 ## Education
 
@@ -20,10 +20,11 @@ I am a second year PhD student, under the supervision of Prof. Qing He in the Ma
 
 I am working on some subfields related to *Reinforcement Learning*:
 
+- *Embodied navigation* via RL;
 - Application of RL in generating symbolic expressions:
-    - *Symbolic Regression*
+    - *Symbolic Regression*;
     - Finding formulaic alpha factors for *Quantitative Trading*;
-- *Interpretability* / *explainability* of RL
+- *Interpretability* / *explainability* of RL;
 - *Interactive Imitation Learning*.
 
 ## Contact me
@@ -48,7 +49,7 @@ xuehongyan17 \[AT\] mails.ucas.ac.cn
 ## Internship
 
 - Research intern at Huawei EI Innovation Lab, 2022.07-now.
-    - Advisor: Dr. [Feiyang Pan](https://feiyang.github.io/)
+    - Advisor: Dr. [Feiyang Pan](https://feiyang.github.io/) and Dr. Ming Ouyang
 
 ## Skills
 
@@ -58,8 +59,10 @@ xuehongyan17 \[AT\] mails.ucas.ac.cn
     - Familiar but not proficient: C / C++, Java / Kotlin, SQL
     - Tourist: MATLAB, Shell, Scala, Swift
 - Hobbies and Interests
-    - Soccer (Fan of Borussia Dortmund)
+    - Football⚽ (Fan of Borussia Dortmund)
     - F1 Racing (A novice fan yet)
     - City Orienteering / Urban Rail Adventure
     - Cartography / GIS
     - Craft Beer
+    - Hardcore punk music / Metalcore
+    - Documentary films
