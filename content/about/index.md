@@ -7,7 +7,7 @@ draft: false
  <div align="center"><img src="https://raw.githubusercontent.com/xuehongyanL/images/main/xhy.jpg" style="width: 100%; max-width: 450px;" alt="薛泓彦" /></div>
 
 
-I am a third year PhD student, under the supervision of Prof. Qing He in the Machine Learning and Data Mining group, Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (MLDM, IIP, ICT, CAS).
+I am a third year PhD student, under the supervision of Prof. Qing He in the Machine Learning and Data Mining group, Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (MLDM, IIP, ICT, CAS). \[[简历PDF](/resume.pdf)\].
 
 ## Education
 
