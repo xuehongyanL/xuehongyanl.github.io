@@ -7,7 +7,7 @@ draft: false
  <div align="center"><img src="https://raw.githubusercontent.com/xuehongyanL/images/main/xhy.jpg" style="width: 100%; max-width: 450px;" alt="薛泓彦" /></div>
 
 
-I am a third year PhD student, under the supervision of Prof. Qing He in the Machine Learning and Data Mining group, Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (MLDM, IIP, ICT, CAS). \[[简历PDF](/resume.pdf)\].
+I am a fourth year PhD student, under the supervision of Prof. Qing He in the Machine Learning and Data Mining group, Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (MLDM, IIP, ICT, CAS). \[[简历PDF](/resume.pdf)\].
 
 ## Education
 
@@ -18,12 +18,12 @@ I am a third year PhD student, under the supervision of Prof. Qing He in the Mac
 
 ## Research Interests
 
-I am working on some subfields related to *Reinforcement Learning*:
+I am working on some subfields related to *Decision Making*:
 
-- *Embodied navigation* via RL;
-- Application of RL in generating symbolic expressions:
-    - *Symbolic Regression*;
-    - Finding formulaic alpha factors for *Quantitative Trading*;
+- *Large Language Models* and its applications:
+    - Policy optimization in *Livestream E-commerce* via LLM & RL;
+- *Reinforcement Learning* and its applications:
+    - Finding formulaic alpha factors for *Quantitative Trading* via RL;
 - *Interpretability* / *explainability* of RL;
 - *Interactive Imitation Learning*.
 
@@ -48,7 +48,7 @@ xuehongyan17 \[AT\] mails.ucas.ac.cn
 
 ## Internship
 
-- Research intern at Huawei EI Innovation Lab, 2022.07-now.
+- Research intern at Huawei EI Innovation Lab, 2022.07-2023.11.
     - Advisor: Dr. [Feiyang Pan](https://feiyang.github.io/) and Dr. Ming Ouyang
 
 ## Skills
